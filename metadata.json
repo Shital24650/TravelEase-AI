@@ -1,0 +1,8 @@
+{
+  "name": "TravelEase - Senior Travel Companion",
+  "description": "A smart AI travel companion designed specifically for senior citizens, providing step-by-step travel guidance and real-time assistance in English, Hindi, and Marathi.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
