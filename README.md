@@ -35,7 +35,9 @@ It leverages Generative AI to provide personalized travel plans, safety recommen
 
 ## 📸 Screenshots
 
-(Add 2–3 UI screenshots here)
+<img width="1243" height="691" alt="Screenshot 2026-04-24 123915" src="https://github.com/user-attachments/assets/deedf4bb-b439-468f-af53-0e2f0a1ae6af" />
+<img width="1243" height="691" alt="Screenshot 2026-04-24 123915" src="https://github.com/user-attachments/assets/086d664d-9741-46b1-b51f-f9dd3bc2b077" />
+
 
 ---
 
